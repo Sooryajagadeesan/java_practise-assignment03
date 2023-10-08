@@ -12,6 +12,6 @@ public class SumOfInputNumbers {
             number = in.nextInt();
         }
 
-        System.out.println("Sum of the input number is " + sum);
+        System.out.println("Sum of the input numbers is " + sum);
     }
 }
